@@ -48,7 +48,8 @@ public class EjercicioSesion1 {
         System.out.println("\n Por ultimo tenemos las variables que contienen texto, que son char y String. En la mayoria" +
                 "de supuestos utilizaremos String:\n" +
                 "   - char: " + variable9 + "\n" +
-                "   - String: " + variable10);
+                "   - String: " + variable10
+        );
 
     }
 }
